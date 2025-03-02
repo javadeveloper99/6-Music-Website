@@ -1,0 +1,457 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.one-container {
+  width: 100%;
+  height: 1024;
+
+}
+
+.navbar {
+  width: 100%;
+  height: 55px;
+  background-color: #270082;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 100px;
+  height: 29px;
+}
+
+.logo h3 {
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+  font-size: 24px;
+  color: #ffffff;
+  margin-left: 120px;
+  padding-top: 15px;
+
+}
+
+.info-bar {
+  width: 342px;
+  height: 29px;
+  display: flex;
+  color: #ffffff;
+  justify-content: space-between;
+  left: 0;
+  padding-top: 15px;
+  margin-right: 100px;
+}
+
+.home-container {
+  width: 100%;
+  height: 92vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("./images/hero_image.png");
+}
+
+.hero-text {
+  text-align: center;
+  color: #ffffff;
+  position: relative;
+  top: 200px;
+}
+
+
+
+.main-heading h1 {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  margin-bottom: 20px;
+
+}
+
+.small-heading {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 34px;
+  margin-bottom: 20px;
+}
+
+.info-para {
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin-bottom: 20px;
+  padding: 10px 100px 10px 100px;
+}
+
+.two-container {
+  width: 100%;
+  height: 806px;
+  background-color: #281154;
+  text-align: center;
+}
+
+.section-two {
+  height: 2150px;
+
+}
+
+.music-logo {
+  width: 159px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin-left: 660px;
+  padding-top: 50px;
+
+}
+
+.logo img {
+  height: 50px;
+  height: 50px;
+}
+
+.text {
+  width: 99px;
+  height: 29px;
+}
+
+.text p {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: white;
+}
+
+.down-music-logo {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.down-music-logo h3 {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+
+  color: white;
+
+}
+
+.para-infoo {
+  margin-top: 50px;
+
+  height: 98px;
+  text-align: center;
+}
+
+.para-infoo p {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 10px 100px 10px 100px;
+  color: white;
+
+}
+
+.red-text {
+  width: 183px;
+  height: 55px;
+  background-color: #dc0000;
+  position: relative;
+  left: 660px;
+}
+
+.red-text p {
+  width: 165px;
+  height: 29px;
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  padding-top: 15px;
+  padding-left: 7px;
+  color: white;
+
+
+}
+
+.small-text {
+  width: 435px;
+  height: 29px;
+  margin-top: 50px;
+  text-align: center;
+  margin-left: 550px;
+
+}
+
+.small-text p {
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+
+  color: white;
+}
+
+.top-img {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.black-text {
+  width: 653px;
+  height: 29px;
+  margin-left: 400px;
+
+}
+
+.black-text h3 {
+  font-family: "roboto", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+
+  color: #000000;
+}
+
+.big-para {
+  width: 1045px;
+  height: 124px;
+  margin-top: 60px;
+  margin-left: 250px;
+}
+
+.big-para p {
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+
+  color: #000000;
+}
+
+.read-more {
+  width: 133px;
+  height: 50px;
+  background-color: #37008E;
+  margin-left: 675px;
+}
+
+.read-more p {
+  width: 90px;
+  height: 29px;
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  padding: 15px 0 0 15px;
+
+  color: #ffffff;
+
+}
+
+.macbook-home {
+  width: 1024px;
+  height: 590px;
+  margin-top: 50px;
+  margin-left: 218px;
+}
+
+
+
+.section-three {
+  text-align: center;
+}
+
+.container-three {
+  margin-top: 50px;
+  width: 100%;
+  height: 701px;
+  color: white;
+  background-image: url(./images/video.png);
+}
+
+.entertainment {
+  width: 650px;
+  height: 29px;
+  margin-left: 440px;
+  position: relative;
+  top: 200px;
+
+
+}
+
+.entertainment h3 {
+  text-align: center;
+
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+
+
+
+  color: #ffffff;
+}
+
+.para-inter {
+  width: 937px;
+  height: 54px;
+  position: relative;
+  text-align: center;
+  top: 300px;
+  left: 280px;
+
+}
+
+.para-inter p {
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+
+  color: #ffffff;
+}
+
+.section-four {
+  height: 380px;
+}
+
+.info-four {
+  width: 1080px;
+  height: 310px;
+  margin-left: 180px;
+  margin-top: 60px;
+  display: flex;
+}
+
+.gift-card img {
+  width: 468px;
+  height: 310px;
+}
+
+.gift-text {
+  width: 576px;
+  height: 302px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.gift h3 {
+  width: 120px;
+  height: 29px;
+  font-family: "roboto", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+
+  color: #000000;
+
+}
+
+.gift-para {
+  margin-top: 20px;
+}
+
+.gift-para p {
+  width: 576px;
+  height: 100px;
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  color: #000000;
+
+}
+
+.gift-small-para {
+  margin-bottom: 30px;
+}
+
+.gift-small-para p {
+  width: 326px;
+  height: 20px;
+  font-family: "roboto", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+.redeem {
+  width: 100px;
+  height: 39px;
+  background-color: #37008e;
+  padding: 17px 0 0 25px;
+
+}
+
+.redeem p {
+  color: #ffffff;
+  width: 66px;
+  height: 29px;
+  font-family: "roboto", sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+footer {
+  height: 292px;
+  background-color: #1b0058;
+}
+
+.box-four {
+  width: 950px;
+  height: 138px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 200px;
+
+
+}
+
+.box {
+  width: 200px;
+  height: 138px;
+  color: white;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.heading {
+  width: 180px;
+  height: 30px;
+}
+
+.small-content {
+  width: 200px;
+  height: 87px;
+}
+
+.box-two {
+  width: 140px;
+  height: 138px;
+  color: white;
+  margin-left: 100px;
+  margin-top: 50px;
+}
+
+.heading-two {
+  width: 140px;
+  height: 30px;
+}
+
+.small-content-two {
+  width: 140px;
+  height: 87px;
+}
+
+.copyright {
+  height: 51px;
+  position: relative;
+  margin-top: 100px;
+  background-color: #270082;
+  color: white;
+  text-align: center;
+
+}
+
+.copyright p {
+  padding-top: 20px;
+  font-family: "roboto", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+}
